@@ -16,6 +16,9 @@ REQUIREMENTS
 - vbmeta.img.tar
 - Odin
 - Battery 60%+
+- Download the necessary files here:  
+[https://drive.google.com/file/d/1bmdgYlJ6m72yEwFzt2FRbl1-f_cZEeNl/view?usp=drive_link](https://drive.google.com/file/d/1bmdgYlJ6m72yEwFzt2FRbl1-f_cZEeNl/view?usp=drive_link)
+
 
 --------------------------------------------------
 
