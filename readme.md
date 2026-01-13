@@ -28,7 +28,7 @@ STEP 1: Flash Recovery via Odin
 3. AP → select recovery.img.tar
 4. Auto Reboot = OFF
 5. Click Start
-6. Flash complete হলে
+6. Flash complete then
    Force reboot directly into Recovery
    (Power + Volume UP)
 
