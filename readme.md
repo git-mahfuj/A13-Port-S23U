@@ -71,10 +71,11 @@ If you won't flash vbmeta :
 
 STEP 5 : FACTORY RESET
 - Reboot Phone to recovery then factory reset
+- Reboot to system
 
 --------------------------------------------------
 
-STEP 6: First Boot
+Congrats: First Boot
 - First boot take 5–10 minutes 
 - Don't Panic if fail go to DownloadMode then Flash stock rom
 
