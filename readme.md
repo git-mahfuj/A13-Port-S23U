@@ -43,17 +43,17 @@ Advanced → Enter FastbootD
 STEP 3: Flash Images via FastbootD (PC)
 Connect usb then type the command in terminal/powershell:
 
-fastboot devices
+- fastboot devices
 
-fastboot erase userdata
-fastboot erase cache
+- fastboot erase userdata
+- fastboot erase cache
 
-fastboot flash super super.img
-(Take 2–5 minutes, Don't Interrupt)
+- fastboot flash super super.img
+ (Take 2–5 minutes, Don't Interrupt)
 
-fastboot flash boot boot.img
+- fastboot flash boot boot.img
 
-fastboot reboot
+- fastboot reboot
 
 --------------------------------------------------
 
