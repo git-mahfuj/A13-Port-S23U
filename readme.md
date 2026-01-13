@@ -30,7 +30,7 @@ STEP 1: Flash Recovery via Odin
 5. Click Start
 6. Flash complete হলে
    Force reboot directly into Recovery
-   (Power + Volume Up ধরে রাখো)
+   (Power + Volume UP)
 
 --------------------------------------------------
 
