@@ -69,9 +69,12 @@ If you won't flash vbmeta :
 - Red State Error
 - Verified Boot Failure
 
+STEP 5 : FACTORY RESET
+- Reboot Phone to recovery then factory reset
+
 --------------------------------------------------
 
-STEP 5: First Boot
+STEP 6: First Boot
 - First boot take 5–10 minutes 
 - Don't Panic if fail go to DownloadMode then Flash stock rom
 
